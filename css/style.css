@@ -70,9 +70,7 @@ ol {
 	margin: 0;
 }
 
-/*---------------------
-	Helper CSS
------------------------*/
+
 
 .section-title {
 	margin-bottom: 48px;
@@ -129,11 +127,6 @@ ol {
 	color: #e0e3e4;
 }
 
-/*---------------------
-	Commom elements
------------------------*/
-
-/* buttons */
 
 .site-btn {
 	display: inline-block;
@@ -149,7 +142,7 @@ ol {
 	background: #ff2a6b;
 }
 
-/* Preloder */
+
 
 #preloder {
 	position: fixed;
@@ -212,10 +205,6 @@ ol {
 		border-left-color: transparent;
 	}
 }
-
-/*------------------
-  Header section
----------------------*/
 
 .header-section {
 	clear: both;
@@ -303,9 +292,7 @@ ol {
 	padding-top: 7px;
 }
 
-/*------------------
-  Hero Section
----------------------*/
+
 
 .hero-section {
 	clear: both;
@@ -435,9 +422,7 @@ ol {
 	font-size: 24px;
 }
 
-/*------------------
-  Add Section
----------------------*/
+
 
 .add-slider {
 	position: absolute;
@@ -545,9 +530,6 @@ ol {
 	z-index: -1;
 }
 
-/*------------------
-  Recipes Section
----------------------*/
 
 .recipes-section .container {
 	margin-bottom: -30px;
@@ -595,9 +577,7 @@ ol {
 	font-size: 11px;
 }
 
-/*----------------------
-  Bottom widget Section
-------------------------*/
+
 
 .bottom-widgets-section {
 	background: #f4f7fb;
@@ -713,9 +693,7 @@ ol {
 	padding-top: 4px;
 }
 
-/*------------------
-  Review Section
----------------------*/
+
 
 .review-section {
 	padding: 65px 0;
@@ -794,17 +772,12 @@ ol {
 	padding-top: 4px;
 }
 
-/*------------------
-  Gallery Section
----------------------*/
 
 .gallery-slider .gs-item {
 	height: 320px;
 }
 
-/*------------------
-  Footer Section
----------------------*/
+
 
 .footer-section {
 	padding: 60px 70px 50px;
@@ -842,10 +815,7 @@ ol {
 	padding-top: 10px;
 }
 
-/*------------------
-  Pages
----------------------
-========================*/
+
 
 .page-top-section {
 	text-align: center;
@@ -902,9 +872,7 @@ ol {
 	color: #474747;
 }
 
-/*------------------
-  About Pages
----------------------*/
+
 
 .sf-warp {
 	width: 1229px;
@@ -1045,9 +1013,6 @@ ol {
 	height: 100%;
 }
 
-/*---------------------
-  Recipe single Pages
-------------------------*/
 
 .recipe-view-section .rv-warp {
 	height: 767px;
@@ -1266,9 +1231,7 @@ ol {
 	font-style: italic;
 }
 
-/*------------------
-  Contact Pages
----------------------*/
+
 
 .contact-form-warp h4 {
 	font-weight: 600;
@@ -1324,9 +1287,6 @@ ol {
 	background: #ddd;
 }
 
-/*------------------
-	Responsive
----------------------*/
 
 @media (min-width: 1200px) {
 	.container {
@@ -1357,7 +1317,7 @@ ol {
 	}
 }
 
-/* Medium screen : 992px. */
+
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 	.main-menu {
@@ -1385,7 +1345,7 @@ ol {
 	}
 }
 
-/* Tablet :768px. */
+
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 	.site-logo {
@@ -1464,7 +1424,7 @@ ol {
 	}
 }
 
-/* Large Mobile :480px. */
+
 
 @media only screen and (max-width: 767px) {
 	.main-menu {
@@ -1600,7 +1560,7 @@ ol {
 	}
 }
 
-/* Medium Mobile :480px. */
+
 
 @media only screen and (max-width: 576px) {
 	.add-warp {
@@ -1635,7 +1595,7 @@ ol {
 	}
 }
 
-/* Small Mobile :320px. */
+
 
 @media only screen and (max-width: 479px) {
 	.site-logo {
